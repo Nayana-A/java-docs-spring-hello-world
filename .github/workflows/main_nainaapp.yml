@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Nainaapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BF2D0EAC655F445887BCAAC90609DC91 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F0A9D2F0D1E47F3973166425FFCE3AD }}
           package: '*.jar'
